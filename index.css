@@ -1,10 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@500&display=swap');
+
 body {
     margin: 0%;
     padding: 0%;
     font-family: 'Kanit', sans-serif;
     font-weight: 900;
-} 
+}
 
 header {
     display: flex;
@@ -12,7 +13,7 @@ header {
     justify-content: space-around;
     align-items: center;
     width: 100%;
-    background-color: deepskyblue; 
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(0,216,255,1) 100%);
 }
 
 img {
